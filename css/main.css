@@ -1,0 +1,112 @@
+nav{
+	text-align: center;
+	padding-top: 7%;
+	padding-bottom: 3%;
+
+}
+
+a{
+	text-decoration: none;
+	padding: 2%;
+	font-family: Poiret One;
+	color: black;
+	font-weight: bolder;
+}
+
+nav a:hover{
+	background: #733274 ;
+	color: white
+}
+
+.banner{
+	background-image: url("../images/background.jpg") ;
+	width: 100%;
+	height: 350px;
+	background-size: 105%;
+	background-repeat: no-repeat;
+}
+
+.logo{
+
+	width: 50px;
+	height: 90px;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	padding-top: 40px;
+}
+
+h1, h3, h2 {
+	font-weight: bold;
+	color: #250B25;
+	font-family: Poiret One;
+	text-align: center;
+
+}
+
+.background {
+	background-image: url("../images/tile1.png");
+	width: 100%;
+	height: 340px;
+	padding: 4% 10%;
+}
+
+
+
+.perfil {
+	width: 180px;
+	height: 180px;
+	padding: 5px;
+	border: 1px solid gray;
+	display: inline;
+	float: left;
+	margin-right: 10px;
+	
+
+}
+
+.right{
+	color: #13061F;
+	font-family: Poiret One;
+	font-size: 14px;
+	margin-top: 20px;
+	font-weight: bold;
+	
+}
+
+.kitty{
+	width: 200px;
+	height: 200px;
+	border-radius: 100%;
+	padding: 5px;
+	border: 1px solid #733274 ;
+	display: inline-block;	
+	margin-top: 30px;
+	
+}
+
+h1{
+	text-align: center;
+	font-family: Poiret One;
+	color: #733274;
+	font-weight: bold;
+	font-size: 30px;
+}
+
+
+footer{
+	background-image: url("../images/tile2.png");
+    height: 260px;
+    padding-top: 20px;
+    padding-left: 400px;
+    padding-right: 400px;
+
+}
+
+.second {
+	height: 360px;
+    padding-top: 10px;
+}
+
+
+
